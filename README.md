@@ -27,16 +27,17 @@ Include a hyperlink to the source of your dataset used for this project. Additio
 
 Example: 
 
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+Dataset: https://www.kaggle.com/datasets/darinhawley/oscars-major-award-nominees-winners-19282020
+- **Titles** (String) - title of the movie
+- **Genres** (String) - genre of the movie
+- **Years** (int) - year the movie was released 
+- **Ratings** (double) - rating of the movie
 
 ## UML Diagram 
 
 Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get displayed on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+!
 
 ## Description 
 
